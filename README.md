@@ -1,9 +1,4 @@
-# DJCHE_TIC_2025A
-
-## Escuela Politécnica Nacional
-### Facultad de Ingeniería Eléctrica y Electrónica
-
-Trabajo de Integración Curricular 
+## DeepTexTag
 
 ANEXO1: Guía de instalación de Ollama, levantamiento de LlaMA4:maverick en servidor remoto, implementacion de Servicio de Imagenes (A1.1) y Tablas (A1.2).
 
